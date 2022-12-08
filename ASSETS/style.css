@@ -8,6 +8,7 @@
 body {
     margin: 0;
     padding: 0;
+    border: 0;
     animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
     animation-fill-mode: both;

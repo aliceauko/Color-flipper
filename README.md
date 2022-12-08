@@ -9,7 +9,6 @@ A Responsive Color flipper website created using html5 and css and vannila JavaS
 
 ## SCREENSHOT
 ![image](/ASSETS/Images/127.0.0.1_5500_%20(2).png)
-![image](/ASSETS/Images/127.0.0.1_5500_%20(3).png)
 
 
 ********
@@ -32,7 +31,7 @@ A Responsive Color flipper website created using html5 and css and vannila JavaS
 * Open the folder location on terminal and run using the live server
 
 ## Live Link
-Or you can access the web application directly via this [LINK.]()
+Or you can access the web application directly via this [LINK.](https://color-flipper-nu.vercel.app/)
 *****
 
 ## Technologies Used
@@ -49,3 +48,6 @@ Or you can access the web application directly via this [LINK.]()
 ## [License](LICENSE)
 MIT License
 Copyright (c) 2022 Alice Auko
+
+
+..
